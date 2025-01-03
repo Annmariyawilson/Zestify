@@ -1,0 +1,139 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    font-weight: 500;
+    color: #444;
+}
+
+.nav-link:hover {
+    color: #28a745;
+}
+
+.content {
+    padding: 40px 20px;
+}
+
+h1, h2, h3 {
+    color: #28a745;
+    font-weight: bold;
+}
+
+p {
+    color: #555;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px;
+}
+
+.card img {
+    height: 200px;
+    width: 100%;   
+    object-fit: cover; 
+    border-radius: 10px 10px 0 0; 
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.btn-success {
+    margin-top: 10px;
+}
+footer {
+    background-color: #02260a;
+    padding: 20px 0;
+}
+.main-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.hero-title {
+    color: #28a745;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.hero-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    color: #28a745;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p.text-muted {
+    font-size: 1rem;
+    color: #6c757d;
+}
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-title {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.btn-success {
+    font-weight: bold;
+    background-color: #28a745;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #1e7c34;
+}
+.list-group-numbered .list-group-item {
+    font-size: 1rem;
+    padding: 15px 10px;
+    border: none;
+}
+
+.list-group-numbered .list-group-item i {
+    margin-right: 10px;
+    font-size: 1.2rem;
+    vertical-align: middle;
+    color: #28a745;
+}
+
+.list-group-numbered .list-group-item strong {
+    color: #28a745;
+}
+
+.img-fluid {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
